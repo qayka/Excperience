@@ -1,0 +1,3 @@
+BOT_TOKEN = '6383475749:AAHzdapv335bbGALZ3ydP-nHuntVlCSqoZw'
+BOT_TOKEN_TEST = '6050000689:AAFfs7rAE0VMSW-8DwqAXh7tlC9r0uL1c3E'
+Admins = ["qayka0", "ValentinZubovich"]
