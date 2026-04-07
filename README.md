@@ -1,8 +1,16 @@
-Files breakdown:
-- main.py - Main file
-- knowledge.py - info about bot and admins
-- Files named with numbers - auto generated files, contain info about Polls and chats
-- users.json - info about users
-- requirements.txt - additional libraries
-- PollLog.txt - Log
-- days.json - stats about game days(Not fully implemented)
+# Telegram Bot для баскетбольного клуба
+
+Бот автоматизирует опросы и учёт участников. Создаёт опросы по расписанию, собирает голоса, ведёт статистику.
+
+## Команды
+
+- `/start` — приветствие и главное меню
+- `/help` — список команд
+- `/create Текст_Опроса` — ручное создание опроса
+- `/users` — список участников (для админов)
+
+## Технологии
+
+- Python
+- Telegram Bot API
+- JSON для хранения данных 
